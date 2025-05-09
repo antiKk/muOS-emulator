@@ -13,5 +13,6 @@
   "states":"/run/muos/storage/save/drastic",
   "menu_bg":0,
   "menu_cursor":1,
-  "pixel_filter":1
+  "pixel_filter":1,
+  "display_rotate":90
 }
